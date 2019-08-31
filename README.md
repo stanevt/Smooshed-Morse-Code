@@ -1,4 +1,4 @@
-#Smooshed Morse Code
+# Smooshed Morse Code
 
 Morse code represents every letter as a sequence of 1-4 characters, each of which is either . (dot) or - (dash). The code for the letter a is .-, for b is -..., etc. The codes for each letter a through z are:
 
